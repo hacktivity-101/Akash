@@ -1,4 +1,4 @@
-![logo] (https://github.com/hacktivity-101/Akash/blob/main/baner.png)
+![logo](https://github.com/hacktivity-101/Akash/blob/main/baner.png)
 <h1 align="center">Hi 👋, I'm Akash Maddheshiya</h1>
 <h3 align="center">A passionate Frontend Developer & Bug Hunter</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35d4d034938099.56e31c3d864df.gif">
